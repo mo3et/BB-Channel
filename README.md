@@ -1,2 +1,2 @@
 # BB-Channel
-A IM server in go
+The IM server in go
